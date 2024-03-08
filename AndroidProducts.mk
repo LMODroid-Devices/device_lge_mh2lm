@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_mh2lm.mk
+    $(LOCAL_DIR)/lmodroid_mh2lm.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mh2lm-eng \
-    lineage_mh2lm-user \
-    lineage_mh2lm-userdebug
+    lmodroid_mh2lm-eng \
+    lmodroid_mh2lm-user \
+    lmodroid_mh2lm-userdebug
